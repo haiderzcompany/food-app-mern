@@ -1,12 +1,12 @@
 import { createServer } from 'http';
 import express from 'express';
 import mongoose from 'mongoose';
+import clientRouter from './routes/client.js';
 const app = express();
 const server = createServer(app);
-require('dotenv').config();
 
 const PORT = process.env.PORT || 8000;
-const mongoURI = 'mongodb://127.0.0.1:${2:27017}/${3:database_name}';
+const mongoURI = 'mongodb://127.0.0.1:27017/database_name';
 const mongoDbOptions = { useNewUrlParser: true, useUnifiedTopology: true };
 
 // Use plugins Start
