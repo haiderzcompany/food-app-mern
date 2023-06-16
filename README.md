@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <hr />
-
+<div align="left">
 # FOOD APP MERN
 
     This is FullStack Mern app
@@ -49,3 +49,4 @@
     For tailwind config
 
         - npx tailwindcss init -p
+</div>
