@@ -49,5 +49,8 @@
     For tailwind config
 
         - npx tailwindcss init -p
+<<<<<<< HEAD
 
+=======
+>>>>>>> daa54006a3e30f14062199a2c258ae55c034cc7f
 </div>
