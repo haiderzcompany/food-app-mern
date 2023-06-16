@@ -1,8 +1,8 @@
-<div style="text-align:center;">
+<div align="center">
   <img src="./gitassets/logoReadme.png" width="100"/>
 </div>
 <hr />
-<div style="text-align:center;margin:50px 0">
+<div align="center" style="margin:50px 0">
   <a href="haiderzcompany.com">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
