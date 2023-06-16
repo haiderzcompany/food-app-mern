@@ -1,0 +1,31 @@
+[
+  {
+    "categoryName": "Starter",
+    "name": "Paneer Tikka",
+    "img": "https://media.istockphoto.com/id/1267019739/fr/photo/regardez-de-pr%C3%A8s-d%C3%A9licieux-et-fra%C3%AEchement-cuits-paneer-tikka-grill%C3%A9-avec-des-oignons-et-du.jpg?s=612x612&w=0&k=20&c=GZB5ViG-t4jUt08VANAFwcLfGae0WuJPugP72hhu9sE=",
+    "price": {
+      "half": 120,
+      "full": 240
+    }
+  },
+  {
+    "categoryName": "Pizza",
+    "name": "Chicken Cheese Piza",
+    "img": "https://media.istockphoto.com/id/1359697421/fr/photo/pizza-traditionnelle-italienne-mozzarella-fromage-plat-blanc.jpg?s=612x612&w=0&k=20&c=MEL7gl48LkqimbvN88HRN35Oj93r7x4Cf-PyWVvXNVM=",
+    "price": {
+      "regular": 120,
+      "medium": 230,
+      "large": 350
+    }
+  },
+  {
+    "categoryName": "Pizza",
+    "name": "Mix Veg Piza",
+    "img": "https://media.istockphoto.com/id/1135097234/fr/photo/vue-a%C3%A9rienne-dune-pizza-v%C3%A9g%C3%A9tarienne-fra%C3%AEche-avec-du-basilic-frais.jpg?s=612x612&w=0&k=20&c=uMn3qKbyUjH_U_v3RPagPpKwWgajgFsM63Tk5GP0m40=",
+    "price": {
+      "regular": 80,
+      "medium": 170,
+      "large": 250
+    }
+  }
+]
